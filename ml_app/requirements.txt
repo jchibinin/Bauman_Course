@@ -1,0 +1,6 @@
+flask
+pickle-mixin
+numpy
+pandas
+gunicorn
+sklearn==1.1.3
