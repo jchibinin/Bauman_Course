@@ -1,6 +1,0 @@
-flask==1.1.4
-pickle-mixin
-numpy
-pandas
-gunicorn
-sklearn
